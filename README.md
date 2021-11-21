@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **music development**
 
-- 👨‍💻 All of my projects are available at [kunal-katiyar.web.app](kunal-katiyar.web.app)
+- 👨‍💻 All of my projects are available at [kunal-katiyar.web.app](https://kunal-katiyar.web.app)
 
 - 💬 Ask me about **Node, Vue, Art**
 
