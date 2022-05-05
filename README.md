@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalkatiyar" alt="kunalkatiyar" /></a> </p>
 
-- 🔭 I’m currently working on [Become Bug, GameJam](https://github.com/hemanth-hk/qwer)
+- 🔭 I’m currently working on [HashPoster](https://github.com/KunalKatiyar/HashPoster)
 
-- 🌱 I’m currently learning **Godot, PixelArt, Music**
+- 🌱 I’m currently learning **Web3, PixelArt, Javascript**
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 🤝 I’m looking for help with **music development**
+- 🤝 I’m looking for help with **BlockChain Projects**
 
 - 👨‍💻 All of my projects are available at [kunal-katiyar.web.app](https://kunal-katiyar.web.app)
 
