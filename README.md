@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Game Development**
 
-- 👨‍💻 All of my projects are available at [kunal-katiyar.web.app](https://kunal-katiyar.web.app)
+- 👨‍💻 All of my projects are available at [kunalkatiyar.vercel.app](https://kunalkatiyar.vercel.app)
 
 - 💬 Ask me about **Node, Vue, Art**
 
